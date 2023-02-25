@@ -7,6 +7,7 @@ I’m interested mainly in :
 - Robotics
 - Automotive
 - Computer Vision
+- Artificial Intelligence
 - Research & Development
 - Healthcare Development
 
