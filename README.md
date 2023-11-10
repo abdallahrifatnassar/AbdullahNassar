@@ -11,7 +11,6 @@ I’m interested mainly in :
 - Research & Development
 - Healthcare Development
 
-Skills: Python || C++ || C || ROS || MATLAB || AutoCAD || Eagle 
 
 - 🌱 I’m currently learning Embedded Systems & Computer Vision  
 
